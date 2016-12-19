@@ -242,6 +242,7 @@ Draughts
 Draughts (aka checkers)
 Dressage
 Drifting (motorsport)
+Drinking
 Drone Racing
 Drum and bugle corps (modern)
 Duathlon
@@ -656,6 +657,7 @@ Rainbow Six: Siege
 Rally raid
 Rallycross
 Rallying
+Rana
 Rec footy
 Red rover
 Reduced variants
@@ -877,6 +879,7 @@ Team Roping
 Team penning
 Team play
 Tee-ball
+Tejo
 Tekken
 Telemark skiing
 Ten-ball
@@ -1004,3 +1007,5 @@ Zourkhaneh
 Zui quan
 eSports
 iRacing
+Poker
+Settlers of Catan
